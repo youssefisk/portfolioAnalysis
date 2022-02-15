@@ -2,7 +2,7 @@
 Creating portfolios based on market size, book-to-market ratio and momentum to evaluate their performance over time
 
 
-Historical data from US stock market was analyzed in order to create portfolios based on different strategies:
+Historical data from US stock market from 1963 until 2020 was analyzed in order to create portfolios based on different strategies:
 1. Size
 2. Book-to-market ratio
 3. Momentum
